@@ -63,11 +63,12 @@
       <nav class="main-nav float-right d-none d-lg-block">
         <ul>
           <li class="active"><a href="#intro">Home</a></li>
-          <li><a href="#about">About Us</a></li>
-          <li><a href="#services">Services</a></li>
+          <!-- <li><a href="#about">About Us</a></li> -->
+          <li><a href="#why-us">Layanan</a></li>
+          <!-- <li><a href="#services">Services</a></li> -->
           <li><a href="#portfolio">Portfolio</a></li>
-          <li><a href="#team">Team</a></li>
-          <li class="drop-down"><a href="">Drop Down</a>
+          <!-- <li><a href="#team">Team</a></li> -->
+          <!-- <li class="drop-down"><a href="">Drop Down</a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
               <li class="drop-down"><a href="#">Drop Down 2</a>
@@ -83,7 +84,7 @@
               <li><a href="#">Drop Down 4</a></li>
               <li><a href="#">Drop Down 5</a></li>
             </ul>
-          </li>
+          </li> -->
           <li><a href="#footer">Contact Us</a></li>
         </ul>
       </nav><!-- .main-nav -->
@@ -98,9 +99,9 @@
     <div class="container d-flex h-100">
       <div class="row justify-content-center align-self-center">
         <div class="col-md-6 intro-info order-md-first order-last">
-          <h2>Ahlinya<br><span>Sedot WC</span></h2>
+          <h2>Ahlinya<br><span>Sedot WC & Limbah</span><br><small style="font-size:15pt;" >Sidoarjo, Surabaya, Mojokerto</small></h2>
           <div>
-            <a href="#about" class="btn-get-started scrollto">Get Started</a>
+            <a href="https://wa.me/6281253365337?text=hi%2C%20saya%20mau%20pesan%20jasa%20sedot%20wc.%20Bisa..%3F" class="btn-get-started scrollto">Klik Order</a>
           </div>
         </div>
   
@@ -117,7 +118,7 @@
     <!--==========================
       About Us Section
     ============================-->
-    <section id="about">
+    <!-- <section id="about">
 
       <div class="container">
         <div class="row">
@@ -131,9 +132,10 @@
           <div class="col-lg-7 col-md-6">
             <div class="about-content">
               <h2>About Us</h2>
-              <h3>Odio sed id eos et laboriosam consequatur eos earum soluta.</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-              <p>Aut dolor id. Sint aliquam consequatur ex ex labore. Et quis qui dolor nulla dolores neque. Aspernatur consectetur omnis numquam quaerat. Sed fugiat nisi. Officiis veniam molestiae. Et vel ut quidem alias veritatis repudiandae ut fugit. Est ut eligendi aspernatur nulla voluptates veniam iusto vel quisquam. Fugit ut maxime incidunt accusantium totam repellendus eum error. Et repudiandae eum iste qui et ut ab alias.</p>
+              <h3>CV Berkah Mulya</h3>
+              <p>Siap melayani jasa sedot WC dan Limbah, terpercaya sejak jaman dulu.</p>
+              <p>Melayani wilayah surabaya, sidoarjo, mojokerto.</p>
+              <p>Kontak Saya Abdul Basyir <a href="https://wa.me/6281253365337?text=hi%2C%20saya%20mau%20pesan%20jasa%20sedot%20wc.%20Bisa..%3F" class="btn-get-started scrollto">081253365337</a> </p>
               <ul>
                 <li><i class="ion-android-checkmark-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
                 <li><i class="ion-android-checkmark-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
@@ -144,13 +146,14 @@
         </div>
       </div>
 
-    </section><!-- #about -->
+	</section> -->
+	<!-- #about -->
 
 
     <!--==========================
       Services Section
     ============================-->
-    <section id="services" class="section-bg">
+    <!-- <section id="services" class="section-bg">
       <div class="container">
 
         <header class="section-header">
@@ -208,7 +211,8 @@
         </div>
 
       </div>
-    </section><!-- #services -->
+	</section> -->
+	<!-- #services -->
 
     <!--==========================
       Why Us Section
@@ -217,8 +221,8 @@
       <div class="container-fluid">
         
         <header class="section-header">
-          <h3>Why choose us?</h3>
-          <p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant vituperatoribus.</p>
+          <h3>CV Berkah Mulya</h3>
+          <p>Melayani jasa sedot WC dan limbah, berpengalaman sejak jaman dulu. Dengan tenaga ahli dan berpengalaman.</p>
         </header>
 
         <div class="row">
@@ -239,7 +243,7 @@
                 Odio omnis saepe qui. Veniam eaque ipsum. Ea quia voluptatum quis explicabo sed nihil repellat..
               </p>
 
-              <div class="features wow bounceInUp clearfix">
+              <!-- <div class="features wow bounceInUp clearfix">
                 <i class="fa fa-diamond" style="color: #f058dc;"></i>
                 <h4>Corporis dolorem</h4>
                 <p>Commodi quia voluptatum. Est cupiditate voluptas quaerat officiis ex alias dignissimos et ipsum. Soluta at enim modi ut incidunt dolor et.</p>
@@ -255,7 +259,7 @@
                 <i class="fa fa-language" style="color: #589af1;"></i>
                 <h4>Voluptates dolores</h4>
                 <p>Voluptates nihil et quis omnis et eaque omnis sint aut. Ducimus dolorum aspernatur. Totam dolores ut enim ullam voluptas distinctio aut.</p>
-              </div>
+              </div> -->
               
             </div>
 
@@ -265,7 +269,7 @@
 
       </div>
 
-      <div class="container">
+      <!-- <div class="container">
         <div class="row counters">
 
           <div class="col-lg-3 col-6 text-center">
@@ -290,7 +294,7 @@
   
         </div>
 
-      </div>
+      </div> -->
     </section>
 
     <!--==========================
@@ -300,11 +304,11 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-9 text-center text-lg-left">
-            <h3 class="cta-title">Call To Action</h3>
-            <p class="cta-text"> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h3 class="cta-title">Panggilan Darurat!!!</h3>
+            <p class="cta-text"> Kontak kami segera 081253365337.</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#">Call To Action</a>
+            <a class="cta-btn align-middle" href="https://wa.me/6281253365337?text=hi%2C%20saya%20mau%20pesan%20jasa%20sedot%20wc.%20Bisa..%3F">Klik Darurat</a>
           </div>
         </div>
 
@@ -314,7 +318,7 @@
     <!--==========================
       Features Section
     ============================-->
-    <section id="features">
+    <!-- <section id="features">
       <div class="container">
 
         <div class="row feature-item">
@@ -353,7 +357,8 @@
         </div>
 
       </div>
-    </section><!-- #about -->
+	</section> -->
+	<!-- #about -->
 
     <!--==========================
       Portfolio Section

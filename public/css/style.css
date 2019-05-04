@@ -181,7 +181,7 @@ h6 {
 }
 
 #header .logo h1 {
-  font-size: 36px;
+  font-size: 30px;
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -692,7 +692,8 @@ h6 {
 --------------------------------*/
 
 #call-to-action {
-  background: #2d2b46;
+  /* background: #2d2b46; */
+  background: #B1131A;
   background-size: cover;
   padding: 40px 0;
 }
@@ -1487,7 +1488,7 @@ h6 {
   }
 
   #header .logo h1 {
-    font-size: 28px;
+    font-size: 20px;
     padding: 8px 0;
   }
 
