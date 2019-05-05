@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <title>Sedot WC Sidoarjo Surabaya Mojokerto</title>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="" name="keywords">
-  <meta content="" name="description">
+  	<meta charset="utf-8">
+  	<title>Sedot WC Bojonegori, Mojokerto, Kediri</title>
+  	<meta name="description" content="melayani jasa sedot wc dan limbah wilayah bojonegoro kediri mojokerto">
+	<meta name="keyword" content="sedot wc bojonegori, mojokerto, kediri">
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+	<!-- <meta content="" name="keywords">
+	<meta content="" name="description"> -->
 
   <!-- Favicons -->
   <link href="img/favicon.png" rel="icon">
@@ -66,7 +68,7 @@
           <!-- <li><a href="#about">About Us</a></li> -->
           <li><a href="#why-us">Layanan</a></li>
           <!-- <li><a href="#services">Services</a></li> -->
-          <li><a href="#portfolio">Portfolio</a></li>
+          <li><a href="#portfolio">Galeri</a></li>
           <!-- <li><a href="#team">Team</a></li> -->
           <!-- <li class="drop-down"><a href="">Drop Down</a>
             <ul>
@@ -85,10 +87,10 @@
               <li><a href="#">Drop Down 5</a></li>
             </ul>
           </li> -->
-          <li><a href="#footer">Contact Us</a></li>
+          <!-- <li><a href="#footer">Kontak</a></li> -->
         </ul>
       </nav><!-- .main-nav -->
-      
+
     </div>
   </header><!-- #header -->
 
@@ -99,12 +101,13 @@
     <div class="container d-flex h-100">
       <div class="row justify-content-center align-self-center">
         <div class="col-md-6 intro-info order-md-first order-last">
-          <h2>Ahlinya<br><span>Sedot WC & Limbah</span><br><small style="font-size:15pt;" >Sidoarjo, Surabaya, Mojokerto</small></h2>
-          <div>
-            <a href="https://wa.me/6281253365337?text=hi%2C%20saya%20mau%20pesan%20jasa%20sedot%20wc.%20Bisa..%3F" class="btn-get-started scrollto">Klik Order</a>
+          <h2>Ahlinya<br><span>Sedot WC & Limbah</span><br>Telp/WA 081253365337<br><small style="font-size:15pt;" >Bojonegoro, Mojokerto, Kediri</small></h2>
+          <div >
+			<!-- <a href="https://wa.me/6281253365337?text=hi%2C%20saya%20mau%20pesan%20jasa%20sedot%20wc.%20Bisa..%3F" class="btn-get-started scrollto">Hubungi Sekarang</a> -->
+			<a href="https://wa.me/6281253365337?text=hi%2C%20saya%20mau%20pesan%20jasa%20sedot%20wc.%20Bisa..%3F" ><img style="width:50%;" src="img/chat-wa.png" /></a>
           </div>
         </div>
-  
+
         <div class="col-md-6 intro-img order-md-last order-first">
           <img src="img/intro-img.svg" alt="" class="img-fluid">
         </div>
@@ -219,29 +222,26 @@
     ============================-->
     <section id="why-us" class="wow fadeIn">
       <div class="container-fluid">
-        
+
         <header class="section-header">
           <h3>CV Berkah Mulya</h3>
-          <p>Melayani jasa sedot WC dan limbah, berpengalaman sejak jaman dulu. Dengan tenaga ahli dan berpengalaman.</p>
         </header>
 
         <div class="row">
 
           <div class="col-lg-6">
             <div class="why-us-img">
-              <img src="img/why-us.jpg" alt="" class="img-fluid">
+              <img src="img/why-us.png" alt="" class="img-fluid">
             </div>
           </div>
 
           <div class="col-lg-6">
-            <div class="why-us-content">
-              <p>Molestiae omnis numquam corrupti omnis itaque. Voluptatum quidem impedit. Odio dolorum exercitationem est error omnis repudiandae ad dolorum sit.</p>
-              <p>
-                Explicabo repellendus quia labore. Non optio quo ea ut ratione et quaerat. Porro facilis deleniti porro consequatur
-                et temporibus. Labore est odio.
+            <div class="why-us-content text-center">
+				<p>Kami memberikan layanan jasa sedot wc untuk wilayah <a target="new" href="https://id.wikipedia.org/wiki/Kabupaten_Bojonegoro">Bojonegoro</a>, <a target="new" href="https://id.wikipedia.org/wiki/Kabupaten_Mojokerto">Mojokerto</a>, <a target="new" href="https://id.wikipedia.org/wiki/Kabupaten_Kediri">Kediri</a> & sekitarnya dengan armada pribadi yang sangat memadai disertai kapasitas tangki yang besar dan di dukung oleh tenaga kerja yang sudah berpengalaman & professional. </p>
+				<p>Tentu saja kami mengedepankan pelayanan yang cepat, handal dan memuaskan. Kepuasan pelanggan menjadi prioritas kami.</p>
+				<p>Hubungi Sekarang</p>
+				<a href="https://wa.me/6281253365337?text=hi%2C%20saya%20mau%20pesan%20jasa%20sedot%20wc.%20Bisa..%3F" ><img style="width:50%;" src="img/chat-wa.png" /></a>
 
-                Odio omnis saepe qui. Veniam eaque ipsum. Ea quia voluptatum quis explicabo sed nihil repellat..
-              </p>
 
               <!-- <div class="features wow bounceInUp clearfix">
                 <i class="fa fa-diamond" style="color: #f058dc;"></i>
@@ -254,13 +254,13 @@
                 <h4>Eum ut aspernatur</h4>
                 <p>Molestias eius rerum iusto voluptas et ab cupiditate aut enim. Assumenda animi occaecati. Quo dolore fuga quasi autem aliquid ipsum odit. Perferendis doloremque iure nulla aut.</p>
               </div>
-              
+
               <div class="features wow bounceInUp clearfix">
                 <i class="fa fa-language" style="color: #589af1;"></i>
                 <h4>Voluptates dolores</h4>
                 <p>Voluptates nihil et quis omnis et eaque omnis sint aut. Ducimus dolorum aspernatur. Totam dolores ut enim ullam voluptas distinctio aut.</p>
               </div> -->
-              
+
             </div>
 
           </div>
@@ -291,7 +291,7 @@
             <span data-toggle="counter-up">18</span>
             <p>Hard Workers</p>
           </div>
-  
+
         </div>
 
       </div> -->
@@ -304,7 +304,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-9 text-center text-lg-left">
-            <h3 class="cta-title">Panggilan Darurat!!!</h3>
+            <h3 class="cta-title">Panggil Sekarang!!!</h3>
             <p class="cta-text"> Kontak kami segera 081253365337.</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
@@ -344,7 +344,7 @@
           <div class="col-lg-6 wow fadeInUp pt-4 pt-lg-0 order-2 order-lg-1">
             <h4>Neque saepe temporibus repellat ea ipsum et. Id vel et quia tempora facere reprehenderit.</h4>
             <p>
-             Delectus alias ut incidunt delectus nam placeat in consequatur. Sed cupiditate quia ea quis. Voluptas nemo qui aut distinctio. Cumque fugit earum est quam officiis numquam. Ducimus corporis autem at blanditiis beatae incidunt sunt. 
+             Delectus alias ut incidunt delectus nam placeat in consequatur. Sed cupiditate quia ea quis. Voluptas nemo qui aut distinctio. Cumque fugit earum est quam officiis numquam. Ducimus corporis autem at blanditiis beatae incidunt sunt.
             </p>
             <p>
               Voluptas saepe natus quidem blanditiis. Non sunt impedit voluptas mollitia beatae. Qui esse molestias. Laudantium libero nisi vitae debitis. Dolorem cupiditate est perferendis iusto.
@@ -353,7 +353,7 @@
               Eum quia in. Magni quas ipsum a. Quis ex voluptatem inventore sint quia modi. Numquam est aut fuga mollitia exercitationem nam accusantium provident quia.
             </p>
           </div>
-          
+
         </div>
 
       </div>
@@ -367,10 +367,10 @@
       <div class="container">
 
         <header class="section-header">
-          <h3 class="section-title">Our Portfolio</h3>
+          <h3 class="section-title">Galeri</h3>
         </header>
 
-        <div class="row">
+        <!-- <div class="row">
           <div class="col-lg-12">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
@@ -379,18 +379,18 @@
               <li data-filter=".filter-web">Web</li>
             </ul>
           </div>
-        </div>
+        </div> -->
 
         <div class="row portfolio-container">
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/app1.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/bm_1.jpeg" class="img-fluid" alt="sedot wc mojokerto">
               <div class="portfolio-info">
                 <h4><a href="#">App 1</a></h4>
                 <p>App</p>
                 <div>
-                  <a href="img/portfolio/app1.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
+                  <a href="img/portfolio/bm_.jpeg" data-lightbox="portfolio" data-title="App 1" class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
                   <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                 </div>
               </div>
@@ -399,12 +399,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web" data-wow-delay="0.1s">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/web3.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/bm_2.jpeg" class="img-fluid" alt="sedot wc bojonegoro">
               <div class="portfolio-info">
                 <h4><a href="#">Web 3</a></h4>
                 <p>Web</p>
                 <div>
-                  <a href="img/portfolio/web3.jpg" class="link-preview" data-lightbox="portfolio" data-title="Web 3" title="Preview"><i class="ion ion-eye"></i></a>
+                  <a href="img/portfolio/bm_2.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Web 3" title="Preview"><i class="ion ion-eye"></i></a>
                   <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                 </div>
               </div>
@@ -413,12 +413,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app" data-wow-delay="0.2s">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/app2.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/bm_3.jpeg" class="img-fluid" alt="sedot wc kediri">
               <div class="portfolio-info">
                 <h4><a href="#">App 2</a></h4>
                 <p>App</p>
                 <div>
-                  <a href="img/portfolio/app2.jpg" class="link-preview" data-lightbox="portfolio" data-title="App 2" title="Preview"><i class="ion ion-eye"></i></a>
+                  <a href="img/portfolio/bm_3.jpeg" class="link-preview" data-lightbox="portfolio" data-title="App 2" title="Preview"><i class="ion ion-eye"></i></a>
                   <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                 </div>
               </div>
@@ -427,12 +427,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/card2.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/bm_4.jpeg" class="img-fluid" alt="sedot wc mojokerto">
               <div class="portfolio-info">
                 <h4><a href="#">Card 2</a></h4>
                 <p>Card</p>
                 <div>
-                  <a href="img/portfolio/card2.jpg" class="link-preview" data-lightbox="portfolio" data-title="Card 2" title="Preview"><i class="ion ion-eye"></i></a>
+                  <a href="img/portfolio/bm_4.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Card 2" title="Preview"><i class="ion ion-eye"></i></a>
                   <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                 </div>
               </div>
@@ -441,12 +441,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web" data-wow-delay="0.1s">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/web2.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/bm_5.jpeg" class="img-fluid" alt="sedot wc kediri">
               <div class="portfolio-info">
                 <h4><a href="#">Web 2</a></h4>
                 <p>Web</p>
                 <div>
-                  <a href="img/portfolio/web2.jpg" class="link-preview" data-lightbox="portfolio" data-title="Web 2" title="Preview"><i class="ion ion-eye"></i></a>
+                  <a href="img/portfolio/bm_5.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Web 2" title="Preview"><i class="ion ion-eye"></i></a>
                   <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                 </div>
               </div>
@@ -455,19 +455,19 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app" data-wow-delay="0.2s">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/app3.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/bm_6.jpeg" class="img-fluid" alt="sedot wc bojonegoro">
               <div class="portfolio-info">
                 <h4><a href="#">App 3</a></h4>
                 <p>App</p>
                 <div>
-                  <a href="img/portfolio/app3.jpg" class="link-preview" data-lightbox="portfolio" data-title="App 3" title="Preview"><i class="ion ion-eye"></i></a>
+                  <a href="img/portfolio/bm_6.jpeg" class="link-preview" data-lightbox="portfolio" data-title="App 3" title="Preview"><i class="ion ion-eye"></i></a>
                   <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
               <img src="img/portfolio/card1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -479,9 +479,9 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card" data-wow-delay="0.1s">
+          <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card" data-wow-delay="0.1s">
             <div class="portfolio-wrap">
               <img src="img/portfolio/card3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -507,7 +507,7 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
 
         </div>
 
@@ -517,7 +517,7 @@
     <!--==========================
       Clients Section
     ============================-->
-    <section id="testimonials">
+    <!-- <section id="testimonials">
       <div class="container">
 
         <header class="section-header">
@@ -528,7 +528,7 @@
           <div class="col-lg-8">
 
             <div class="owl-carousel testimonials-carousel wow fadeInUp">
-    
+
               <div class="testimonial-item">
                 <img src="img/testimonial-1.jpg" class="testimonial-img" alt="">
                 <h3>Saul Goodman</h3>
@@ -537,7 +537,7 @@
                   Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
                 </p>
               </div>
-    
+
               <div class="testimonial-item">
                 <img src="img/testimonial-2.jpg" class="testimonial-img" alt="">
                 <h3>Sara Wilsson</h3>
@@ -546,7 +546,7 @@
                   Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
                 </p>
               </div>
-    
+
               <div class="testimonial-item">
                 <img src="img/testimonial-3.jpg" class="testimonial-img" alt="">
                 <h3>Jena Karlis</h3>
@@ -555,7 +555,7 @@
                   Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
                 </p>
               </div>
-    
+
               <div class="testimonial-item">
                 <img src="img/testimonial-4.jpg" class="testimonial-img" alt="">
                 <h3>Matt Brandon</h3>
@@ -572,12 +572,13 @@
 
 
       </div>
-    </section><!-- #testimonials -->
+	</section> -->
+	<!-- #testimonials -->
 
     <!--==========================
       Team Section
     ============================-->
-    <section id="team" class="section-bg">
+    <!-- <section id="team" class="section-bg">
       <div class="container">
         <div class="section-header">
           <h3>Team</h3>
@@ -661,12 +662,13 @@
         </div>
 
       </div>
-    </section><!-- #team -->
+	</section> -->
+	<!-- #team -->
 
     <!--==========================
       Clients Section
     ============================-->
-    <section id="clients" class="wow fadeInUp">
+    <!-- <section id="clients" class="wow fadeInUp">
       <div class="container">
 
         <header class="section-header">
@@ -685,13 +687,14 @@
         </div>
 
       </div>
-    </section><!-- #clients -->
+	</section> -->
+	<!-- #clients -->
 
 
     <!--==========================
       Pricing Section
     ============================-->
-    <section id="pricing" class="wow fadeInUp section-bg">
+    <!-- <section id="pricing" class="wow fadeInUp section-bg">
 
       <div class="container">
 
@@ -701,15 +704,15 @@
         </header>
 
         <div class="row flex-items-xs-middle flex-items-xs-center">
-      
-          <!-- Basic Plan  -->
+
+
           <div class="col-xs-12 col-lg-4">
             <div class="card">
               <div class="card-header">
                 <h3><span class="currency">$</span>19<span class="period">/month</span></h3>
               </div>
               <div class="card-block">
-                <h4 class="card-title"> 
+                <h4 class="card-title">
                   Basic Plan
                 </h4>
                 <ul class="list-group">
@@ -722,15 +725,15 @@
               </div>
             </div>
           </div>
-      
-          <!-- Regular Plan  -->
+
+
           <div class="col-xs-12 col-lg-4">
             <div class="card">
               <div class="card-header">
                 <h3><span class="currency">$</span>29<span class="period">/month</span></h3>
               </div>
               <div class="card-block">
-                <h4 class="card-title"> 
+                <h4 class="card-title">
                   Regular Plan
                 </h4>
                 <ul class="list-group">
@@ -743,15 +746,15 @@
               </div>
             </div>
           </div>
-      
-          <!-- Premium Plan  -->
+
+
           <div class="col-xs-12 col-lg-4">
             <div class="card">
               <div class="card-header">
                 <h3><span class="currency">$</span>39<span class="period">/month</span></h3>
               </div>
               <div class="card-block">
-                <h4 class="card-title"> 
+                <h4 class="card-title">
                   Premium Plan
                 </h4>
                 <ul class="list-group">
@@ -764,16 +767,17 @@
               </div>
             </div>
           </div>
-      
+
         </div>
       </div>
 
-    </section><!-- #pricing -->
+	</section> -->
+	<!-- #pricing -->
 
     <!--==========================
       Frequently Asked Questions Section
     ============================-->
-    <section id="faq">
+    <!-- <section id="faq">
       <div class="container">
         <header class="section-header">
           <h3>Frequently Asked Questions</h3>
@@ -838,7 +842,8 @@
         </ul>
 
       </div>
-    </section><!-- #faq -->
+	</section> -->
+	<!-- #faq -->
 
   </main>
 
@@ -846,7 +851,7 @@
     Footer
   ============================-->
   <footer id="footer" class="section-bg">
-    <div class="footer-top">
+    <!-- <div class="footer-top">
       <div class="container">
 
         <div class="row">
@@ -858,8 +863,8 @@
                 <div class="col-sm-6">
 
                   <div class="footer-info">
-                    <h3>Rapid</h3>
-                    <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue.</p>
+                    <h4>CV BERKAH MULYA</h4>
+                    <p>Melayani jasa sedot WC & Limbah</p>
                   </div>
 
                   <div class="footer-newsletter">
@@ -911,7 +916,7 @@
           <div class="col-lg-6">
 
             <div class="form">
-              
+
               <h4>Send us a message</h4>
               <p>Eos ipsa est voluptates. Nostrum nam libero ipsa vero. Debitis quasi sit eaque numquam similique commodi harum aut temporibus.</p>
               <form action="" method="post" role="form" class="contactForm">
@@ -941,28 +946,23 @@
 
           </div>
 
-          
+
 
         </div>
 
       </div>
-    </div>
+    </div> -->
 
     <div class="container">
       <div class="copyright">
         &copy; Copyright <strong>Rapid</strong>. All Rights Reserved
       </div>
       <div class="credits">
-        <!--
-          All the links in the footer should remain intact.
-          You can delete the links only if you purchased the pro version.
-          Licensing information: https://bootstrapmade.com/license/
-          Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Rapid
-        -->
         Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
       </div>
     </div>
-  </footer><!-- #footer -->
+  </footer>
+  <!-- #footer -->
 
   <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
   <!-- Uncomment below i you want to use a preloader -->
