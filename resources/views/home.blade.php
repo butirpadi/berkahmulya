@@ -237,7 +237,7 @@
 
           <div class="col-lg-6">
             <div class="why-us-content text-center">
-				<p>Kami memberikan layanan jasa sedot wc untuk wilayah <a target="new" href="https://id.wikipedia.org/wiki/Kabupaten_Bojonegoro">Bojonegoro</a>, <a target="new" href="https://id.wikipedia.org/wiki/Kabupaten_Mojokerto">Mojokerto</a>, <a target="new" href="https://id.wikipedia.org/wiki/Kabupaten_Kediri">Kediri</a> & sekitarnya dengan armada pribadi yang sangat memadai disertai kapasitas tangki yang besar dan di dukung oleh tenaga kerja yang sudah berpengalaman & professional. </p>
+				<p>Kami memberikan layanan jasa sedot wc & limbah untuk wilayah <a target="new" href="https://id.wikipedia.org/wiki/Kabupaten_Bojonegoro">Bojonegoro</a>, <a target="new" href="https://id.wikipedia.org/wiki/Kabupaten_Mojokerto">Mojokerto</a>, <a target="new" href="https://id.wikipedia.org/wiki/Kabupaten_Kediri">Kediri</a> & sekitarnya dengan armada pribadi yang sangat memadai disertai kapasitas tangki yang besar dan di dukung oleh tenaga kerja yang sudah berpengalaman & professional. </p>
 				<p>Tentu saja kami mengedepankan pelayanan yang cepat, handal dan memuaskan. Kepuasan pelanggan menjadi prioritas kami.</p>
 				<p>Hubungi Sekarang</p>
 				<a href="https://wa.me/6281253365337?text=hi%2C%20saya%20mau%20pesan%20jasa%20sedot%20wc.%20Bisa..%3F" ><img style="width:50%;" src="img/chat-wa.png" /></a>
