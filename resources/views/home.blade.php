@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   	<meta charset="utf-8">
-  	<title>Sedot WC Bojonegori, Mojokerto, Kediri</title>
+  	<title>Sedot WC Bojonegoro, Mojokerto, Kediri</title>
   	<meta name="description" content="melayani jasa sedot wc dan limbah wilayah bojonegoro kediri mojokerto">
-	<meta name="keyword" content="sedot wc bojonegori, mojokerto, kediri">
+	<meta name="keyword" content="sedot wc bojonegoro, mojokerto, kediri">
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
 	<!-- <meta content="" name="keywords">
 	<meta content="" name="description"> -->
