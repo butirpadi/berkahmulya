@@ -101,10 +101,10 @@
     <div class="container d-flex h-100">
       <div class="row justify-content-center align-self-center">
         <div class="col-md-6 intro-info order-md-first order-last">
-          <h2>Ahlinya<br><span>Sedot WC & Limbah</span><br>Telp/WA 081253365337<br><small style="font-size:15pt;" >Bojonegoro, Mojokerto, Kediri</small></h2>
+          <h2>Ahlinya<br><span>Sedot WC & Limbah</span><br>Telp/WA 081253365337<br><small style="font-size:15pt;" >Cepat, Murah & Praktis</small></h2>
           <div >
 			<!-- <a href="https://wa.me/6281253365337?text=hi%2C%20saya%20mau%20pesan%20jasa%20sedot%20wc.%20Bisa..%3F" class="btn-get-started scrollto">Hubungi Sekarang</a> -->
-			<a href="https://wa.me/6281253365337?text=hi%2C%20saya%20mau%20pesan%20jasa%20sedot%20wc.%20Bisa..%3F" ><img style="width:50%;" src="img/chat-wa.png" /></a>
+			<a href="https://wa.me/6281253365337?text=hi%2C%20saya%20mau%20pesan%20jasa%20sedot%20wc.%20Bisa..%3F" ><img src="img/chat-wa-disc.svg" /></a>
           </div>
         </div>
 
