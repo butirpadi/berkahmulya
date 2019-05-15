@@ -67,6 +67,7 @@
           <li class="active"><a href="#intro">Home</a></li>
           <!-- <li><a href="#about">About Us</a></li> -->
           <li><a href="#why-us">Layanan</a></li>
+          <li><a href="#about">Harga</a></li>
           <!-- <li><a href="#services">Services</a></li> -->
           <li><a href="#portfolio">Galeri</a></li>
           <!-- <li><a href="#team">Team</a></li> -->
@@ -300,7 +301,7 @@
     <!--==========================
       Call To Action Section
     ============================-->
-    <section id="call-to-action" class="wow fadeInUp">
+    <!-- <section id="call-to-action" class="wow fadeInUp">
       <div class="container">
         <div class="row">
           <div class="col-lg-9 text-center text-lg-left">
@@ -313,7 +314,128 @@
         </div>
 
       </div>
-    </section><!-- #call-to-action -->
+    </section> -->
+	<!-- #call-to-action -->
+
+	<section id="about">
+
+      	<div class="container">
+			<header class="section-header">
+				<h3>Harga</h3>
+			</header>
+			
+			<div class="row">
+				<div class="col-lg-6 text-center" >
+					<div class="why-us-img">
+						<img src="img/harga-termurah.png" alt="" style="width:60%;">
+					</div>
+				</div>
+				<div class="col-lg-6">
+					<div class="about-content ">					
+						<b>Harga jasa sedot WC</b>
+						<p>Harga yang kami tawarkan ada 2 pilihan. Terserah anda bebas memilih.</p>
+						<ul>
+							<li><i class="ion-android-checkmark-circle"></i> Harga Per setrip. Yaitu dengan cara menghitung volume sepiteng anda yang kami sedot dengan patokan pada jumlah strip yang ada pada belakang tangki mobil kami. Harga persetrip kami tawarkan hanya <br/><b style="color:orangered;" >Rp.100.000</b> </li>
+							<li><i class="ion-android-checkmark-circle"></i> Harga Borong Bersih, harga paket hemat jadi anda tidak perlu khawatir banyaknya volume kotoran yang kami sedot. Harga borong bersih dihitung dalam satuan pertengki mobil.</li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-6">
+					<div class="about-content ">					
+						<b>Harga melancarkan wc mampet atau wastafel mampet</b>
+						<p>Kami juga memberikan jasa untuk pelancaran saluran mampet. Semua itu tergantung tingkat kesulitan masalah yang dikerjakan. Harga minimal yang kami tawarkan yaitu:  </p>
+						<h4 style="color:red;" class="text-center" >Hanya Rp. 375.000</h4>
+					</div>				
+				</div>
+				<div class="col-lg-6 text-center" >
+					<div class="about-content ">					
+						<img src="img/plumber.jpeg" alt="" >
+					</div>
+				</div>
+				<div class="col-lg-6 text-center" >
+					<div class="why-us-img">
+						<img src="img/garansi.jpg" alt="" style="width:60%;">
+					</div>
+				</div>
+				<div class="col-lg-6">
+					<div class="about-content ">					
+						<b>Harga Sedot Limbah</b>
+						<p>Kami juga siap melayani sedot limbah perusahaan. Berkaitan dengan tempat pembuangan limbah yang  sangat sulit dan harga pembuangannya pun relative mahal, maka jasa sedot wc rata-rata memberikan harga yang mahal juga. Tapi anda tidak perlu hawatir karena kami berikan memberikan harga special untuk anda. Harga sedot limbah kami tawarkan adalah</p> 
+						<h4 style="color:red;" >Hanya Rp. 120.000 per setrip.</h4>
+					</div>
+				</div>
+				<div class="col-lg-12 text-center" >
+					<h4>Segera hubungi kami</h4>
+					<h4>ada <b>POTONGAN HARGA 25%</b> untuk anda:</h4>
+					<a class="btn btn-lg btn-danger" href="https://wa.me/6281253365337?text=hi%2C%20saya%20mau%20pesan%20jasa%20sedot%20wc.%20Bisa..%3F" >KLIK & dapatkan POTONGANnya Sekarang!</a>
+					<!-- <div class="why-us-img">
+						<a class="cta-btn align-middle" href="https://wa.me/6281253365337?text=hi%2C%20saya%20mau%20pesan%20jasa%20sedot%20wc.%20Bisa..%3F">
+							<img src="img/chat-wa-disini.png" alt="" >
+						</a>
+					</div> -->
+	  			</div>
+			</div>
+      	</div>
+
+	</section>
+	<!-- <section id="harga" class="wow fadeIn">
+    	<div class="container">
+			<header class="section-header">
+				<h3 class="section-title">Harga</h3>
+			</header>
+
+			<div class="row" >
+				<div class="col-lg-6" >
+					<div class="why-us-img">
+						<img src="img/harga-termurah.png" alt="" class="img-fluid">
+					</div>
+				</div>
+				<div class="col-lg-6" >
+					<div class="why-us-content text-center">
+						<p>Kami memberikan layanan jasa sedot wc & limbah untuk wilayah <a target="new" href="https://id.wikipedia.org/wiki/Kabupaten_Bojonegoro">Bojonegoro</a>, <a target="new" href="https://id.wikipedia.org/wiki/Kabupaten_Mojokerto">Mojokerto</a>, <a target="new" href="https://id.wikipedia.org/wiki/Kabupaten_Kediri">Kediri</a> & sekitarnya dengan armada pribadi yang sangat memadai disertai kapasitas tangki yang besar dan di dukung oleh tenaga kerja yang sudah berpengalaman & professional. </p>
+						<p>Tentu saja kami mengedepankan pelayanan yang cepat, handal dan memuaskan. Kepuasan pelanggan menjadi prioritas kami.</p>
+						<p>Hubungi Sekarang</p>
+						<a href="https://wa.me/6281253365337?text=hi%2C%20saya%20mau%20pesan%20jasa%20sedot%20wc.%20Bisa..%3F" ><img style="width:50%;" src="img/chat-wa.png" /></a>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+
+
+	<section id="harga2" class="wow fadeInUp">
+      <div class="container ">
+
+        <header class="section-header">
+			<h3 class="section-title">Harga</h3>
+        </header>
+
+        <div class="row">
+
+          <div class="col-lg-6">
+            <div class="why-us-img">
+              <img src="img/harga-termurah.png" alt="" class="img-fluid">
+            </div>
+          </div>
+
+          <div class="col-lg-6">
+            <div class="why-us-content text-center">
+				<p>Kami memberikan layanan jasa sedot wc & limbah untuk wilayah <a target="new" href="https://id.wikipedia.org/wiki/Kabupaten_Bojonegoro">Bojonegoro</a>, <a target="new" href="https://id.wikipedia.org/wiki/Kabupaten_Mojokerto">Mojokerto</a>, <a target="new" href="https://id.wikipedia.org/wiki/Kabupaten_Kediri">Kediri</a> & sekitarnya dengan armada pribadi yang sangat memadai disertai kapasitas tangki yang besar dan di dukung oleh tenaga kerja yang sudah berpengalaman & professional. </p>
+				<p>Tentu saja kami mengedepankan pelayanan yang cepat, handal dan memuaskan. Kepuasan pelanggan menjadi prioritas kami.</p>
+				<p>Hubungi Sekarang</p>
+				<a href="https://wa.me/6281253365337?text=hi%2C%20saya%20mau%20pesan%20jasa%20sedot%20wc.%20Bisa..%3F" ><img style="width:50%;" src="img/chat-wa.png" /></a>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section> -->
 
     <!--==========================
       Features Section
@@ -512,7 +634,8 @@
         </div>
 
       </div>
-    </section><!-- #portfolio -->
+    </section>
+	<!-- #portfolio -->
 
     <!--==========================
       Clients Section
@@ -699,8 +822,8 @@
       <div class="container">
 
         <header class="section-header">
-          <h3>Pricing</h3>
-          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+          <h3>Harga</h3>
+          <p>Harga yang kami berikan untuk jasa Sedot WC Mojosari ada 2 pilihan. Terseraah anda bebas memilih.</p>
         </header>
 
         <div class="row flex-items-xs-middle flex-items-xs-center">
